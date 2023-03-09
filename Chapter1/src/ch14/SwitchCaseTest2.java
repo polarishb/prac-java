@@ -12,7 +12,7 @@ public class SwitchCaseTest2 {
 		month = scanner.nextInt();
 
 		int day = switch (month) {
-			case 1,3,5,7,8,10,12->  {
+			case 1,3,5,7,8,10,12->{
 				yield 31;
 			}
 			case 2 ->{
