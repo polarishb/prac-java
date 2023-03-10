@@ -12,7 +12,7 @@ public class CharacterTest {
 		System.out.println(ch2);
 		System.out.println((int)ch2);
 		
-		char ch3 = 'í•œ';
+		char ch3 = 'ÇÑ';
 		char ch4 = '\uAC00';
 		
 		System.out.println(ch3);
